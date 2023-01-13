@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @angelofdeity
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nico
+- 👀 I’m interested in being a better person 
+- 🌱 I’m currently learning python and C
+- 💞️ I’m looking to collaborate on python projects 
+- 📫 How to reach me https://twitter.com/angelof6
 
 <!---
 angelofdeity/angelofdeity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
