@@ -6,7 +6,9 @@
 - 📫 How to reach me https://twitter.com/lazinico
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelofdeity)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelofdeity&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/3f07a958-b889-40e7-b850-93a610d7ed13.svg)](https://wakatime.com/@3f07a958-b889-40e7-b850-93a610d7ed13)
 <!---
 angelofdeity/angelofdeity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
