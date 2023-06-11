@@ -2,7 +2,7 @@
 - 👀 I’m interested in being a better person 
 - 🌱 I’m currently learning software engineering @alx_africa
 - ♟️ I'm a cohort 9 student 
-- 💞️ I’m love Python and I'm looking to collaborate on python projects.
+- 💞️ I love Python and I'm looking to collaborate on python projects.
 - 📫 How to reach me https://twitter.com/angelofdeity
 
 
